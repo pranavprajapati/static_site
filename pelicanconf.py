@@ -51,6 +51,17 @@ JINJA_ENVIRONMENT = { 'extensions': ['jinja2.ext.i18n'], }
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+# Formatting for urls
+
+ARTICLE_URL = "posts/{date:%Y}/{date:%m}/{slug}/"
+ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%m}/{slug}/index.html"
+
+CATEGORY_URL = "category/{slug}"
+CATEGORY_SAVE_AS = "category/{slug}/index.html"
+
+TAG_URL = "tag/{slug}/"
+TAG_SAVE_AS = "tag/{slug}/index.html"
+
 # Generate yearly archive
 YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 
