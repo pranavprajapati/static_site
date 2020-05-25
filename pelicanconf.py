@@ -68,6 +68,13 @@ YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 # Show most recent posts first
 NEWEST_FIRST_ARCHIVES = False
 
+DISPLAY_CATEGORIES_ON_SIDEBAR = True
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
+
+DISPLAY_ARCHIVE_ON_SIDEBAR = True
+RECENT_POST_COUNT = 3
+
+
 # Change to True if you want RSS
 FEED_ALL_ATOM = False
 FEED_ALL_RSS = False
