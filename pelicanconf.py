@@ -22,6 +22,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+
+
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
@@ -34,6 +36,20 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = False
 
-GOOGLE_ANALYTICS = "UA-167462504-1"
+# Overwrites the output directory (/output) when generating new files
+DELETE_OUTPUT_DIRECTORY = True
+
+# path/to/theme/folder or name or installed via pelican-themes
+THEME = "theme/pelican-bootstrap3"
+
+PLUGIN_PATHS = ['plugins/' ,]
+PLUGINS = ['i18n_subsites' ,]
+
+JINJA_ENVIRONMENT = { 'extensions': ['jinja2.ext.i18n'], }
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# Change to True if you want RSS
+FEED_ALL_ATOM = False
+FEED_ALL_RSS = False
