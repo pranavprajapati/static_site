@@ -9,7 +9,7 @@ SITEURL = ''
 PATH = 'content'
 STATIC_PATHS = ["uploads", "admin", "images"]
 # Optional - if you want Netlify CMS
-#TEMPLATE_PAGES = {"admin/index.html": "admin/index.html"}
+TEMPLATE_PAGES = {"admin/index.html": "admin/index.html"}
 
 TIMEZONE = 'America/New_York'
 
