@@ -1,5 +1,11 @@
 ---
 title: about
 ---
+My name is **Pranav** and I recently graduated with Masters degree in Business Intelligence and Analytics with 4.0 GPA.
 
-(change this part to be about you!)
+`Hola!`
+
+```
+Bas Kya
+print ('Hurray!')
+```
