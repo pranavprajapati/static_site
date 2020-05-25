@@ -51,6 +51,12 @@ JINJA_ENVIRONMENT = { 'extensions': ['jinja2.ext.i18n'], }
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+# Generate yearly archive
+YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
+
+# Show most recent posts first
+NEWEST_FIRST_ARCHIVES = False
+
 # Change to True if you want RSS
 FEED_ALL_ATOM = False
 FEED_ALL_RSS = False
