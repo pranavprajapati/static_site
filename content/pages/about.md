@@ -6,6 +6,5 @@ My name is **Pranav** and I recently graduated with Masters degree in Business I
 `Hola!`
 
 ```
-Bas Kya
 print ('Hurray!')
 ```
