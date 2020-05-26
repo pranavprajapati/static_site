@@ -5,6 +5,6 @@ My name is **Pranav** and I recently graduated with Masters degree in Business I
 
 `Hola!`
 
-```
-print ('Hurray!')
+```python
+print('Hello World')
 ```
