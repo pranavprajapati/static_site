@@ -60,12 +60,12 @@ CATEGORY_SAVE_AS = "category/{slug}/index.html"
 TAG_URL = "tag/{slug}/"
 TAG_SAVE_AS = "tag/{slug}/index.html"
 
-DISPLAY_TAGS_ON_SIDEBAR = False
+DISPLAY_TAGS_ON_SIDEBAR = True
 
 TAG_CLOUD_STEPS=1 #number of different sizes of fonts in the tag cloud
 TAG_CLOUD_MAX_ITEMS= 100 #number of different tags that can appear in tag cloud
 TAG_CLOUD_SORTING= 'size' #how tags will be ordered in the tag cloud. Valid values: random, alphabetically, alphabetically-rev, size and size-rev
-TAG_CLOUD_BADGE= True #If True, displays the number of articles in each tag
+TAG_CLOUD_BADGE= False #If True, displays the number of articles in each tag
 
 # Generate yearly archive
 YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
