@@ -46,6 +46,7 @@ PLUGINS = ['i18n_subsites' ,'tag_cloud','liquid_tags.youtube']
 
 JINJA_ENVIRONMENT = { 'extensions': ['jinja2.ext.i18n'], }
 
+BOOTSTRAP_THEME = 'lux'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
