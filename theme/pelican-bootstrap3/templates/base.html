@@ -194,11 +194,6 @@
 <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
     <div class="row">
         <div class="{{ content_class }}">
-            {% block breadcrumbs %}{% endblock %}
-            {% block content %}{% endblock %}
-        </div>
-        {% if sidebar_class %}
-        <div class="{{ sidebar_class }}" id="sidebar">
             <ul class="tagcloud">
                 {% for tag in tag_cloud %}
                     <li class="tag-{{ tag.1 }}">
@@ -211,6 +206,11 @@
                     </li>
                 {% endfor %}
             </ul>
+            {% block breadcrumbs %}{% endblock %}
+            {% block content %}{% endblock %}
+        </div>
+        {% if sidebar_class %}
+        <div class="{{ sidebar_class }}" id="sidebar">
             <aside>
                 {% if ABOUT_ME or AVATAR %}
                     {% include 'includes/aboutme.html' %}
