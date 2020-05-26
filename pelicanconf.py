@@ -28,8 +28,6 @@ AUTHOR_FEED_RSS = None
  #        ('Jinja2', 'http://jinja.pocoo.org/'),
  #        ('You can modify those links in your config file', '#'),)
 
-# for Tique Search Plugin
-DIRECT_TEMPLATES = ('index','tags', 'categories', 'authors', 'archives', 'search')
 
 # Social widget
 SOCIAL = (('Github', 'https://github.com/pranavprajapati'),
@@ -45,7 +43,7 @@ DELETE_OUTPUT_DIRECTORY = True
 THEME = "theme/pelican-bootstrap3"
 
 PLUGIN_PATHS = ['plugins/' ,]
-PLUGINS = ['i18n_subsites','tag_cloud','tipue_search']
+PLUGINS = ['i18n_subsites','tag_cloud']
 
 JINJA_ENVIRONMENT = { 'extensions': ['jinja2.ext.i18n'], }
 
