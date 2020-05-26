@@ -194,24 +194,24 @@
 <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
     <div class="row">
         <div class="{{ content_class }}">
-            <ul class="tagcloud">
-                {% for tag in tag_cloud %}
-                    <li class="tag-{{ tag.1 }}">
-                        <a href="{{ SITEURL }}/{{ tag.0.url }}">
-                        {{ tag.0 }}
-                            {% if TAG_CLOUD_BADGE %}
-                                <span class="badge">{{ tag.2 }}</span>
-                            {% endif %}
-                        </a>
-                    </li>
-                {% endfor %}
-            </ul>
             {% block breadcrumbs %}{% endblock %}
             {% block content %}{% endblock %}
         </div>
         {% if sidebar_class %}
         <div class="{{ sidebar_class }}" id="sidebar">
             <aside>
+                <ul class="tagcloud">
+                    {% for tag in tag_cloud %}
+                        <li class="tag-{{ tag.1 }}">
+                            <a href="{{ SITEURL }}/{{ tag.0.url }}">
+                            {{ tag.0 }}
+                                {% if TAG_CLOUD_BADGE %}
+                                    <span class="badge">{{ tag.2 }}</span>
+                                {% endif %}
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
                 {% if ABOUT_ME or AVATAR %}
                     {% include 'includes/aboutme.html' %}
                 {% endif %}
