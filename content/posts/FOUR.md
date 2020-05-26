@@ -9,5 +9,3 @@ Toosie Slide Watch
 {% youtube https://www.youtube.com/watch?v=xWggTb45brM [560] [315] %}
 
 ### JUPY
-
-{% notebook ../code/Improve_math_scores.ipynb %}
