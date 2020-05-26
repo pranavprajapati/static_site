@@ -42,7 +42,7 @@ DELETE_OUTPUT_DIRECTORY = True
 THEME = "theme/pelican-bootstrap3"
 
 PLUGIN_PATHS = ['plugins/' ,]
-PLUGINS = ['i18n_subsites' ,'tag_cloud','liquid_tags.youtube']
+PLUGINS = ['i18n_subsites' ,'tag_cloud']
 
 JINJA_ENVIRONMENT = { 'extensions': ['jinja2.ext.i18n'], }
 
