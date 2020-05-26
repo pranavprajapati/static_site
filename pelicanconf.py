@@ -60,7 +60,7 @@ CATEGORY_SAVE_AS = "category/{slug}/index.html"
 TAG_URL = "tag/{slug}/"
 TAG_SAVE_AS = "tag/{slug}/index.html"
 
-DISPLAY_TAGS_ON_SIDEBAR = True 
+DISPLAY_TAGS_ON_SIDEBAR = False
 
 TAG_CLOUD_STEPS=1 #number of different sizes of fonts in the tag cloud
 TAG_CLOUD_MAX_ITEMS= 100 #number of different tags that can appear in tag cloud
