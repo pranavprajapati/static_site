@@ -204,19 +204,19 @@
                     {% include 'includes/aboutme.html' %}
                 {% endif %}
                 {% if not HIDE_SIDEBAR %}
+                <ul class="tagcloud">
+                    {% for tag in tag_cloud %}
+                        <li class="tag-{{ tag.1 }}">
+                            <a href="{{ SITEURL }}/{{ tag.0.url }}">
+                            {{ tag.0 }}
+                                {% if TAG_CLOUD_BADGE %}
+                                    <span class="badge">{{ tag.2 }}</span>
+                                {% endif %}
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
                     {% include 'includes/sidebar.html' %}
-                    <ul class="tagcloud">
-                        {% for tag in tag_cloud %}
-                            <li class="tag-{{ tag.1 }}">
-                                <a href="{{ SITEURL }}/{{ tag.0.url }}">
-                                {{ tag.0 }}
-                                    {% if TAG_CLOUD_BADGE %}
-                                        <span class="badge">{{ tag.2 }}</span>
-                                    {% endif %}
-                                </a>
-                            </li>
-                        {% endfor %}
-                    </ul>
                 {% endif %}
             </aside>
         </div>

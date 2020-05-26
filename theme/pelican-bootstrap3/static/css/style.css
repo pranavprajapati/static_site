@@ -246,7 +246,7 @@ ul.tagcloud {
   }
   
   ul.tagcloud li {
-      display: inline-block;
+      display: list-item;
   }
   
   li.tag-1 {
