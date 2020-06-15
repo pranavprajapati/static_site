@@ -1,12 +1,13 @@
 ---
-title: Testing Again
-date: 2020-05-25 20:00
-tags: how-to
+title: Learning SQL the right way
+date: 2020-05-19T00:00:00.000Z
+tags: how-to, sql,  software
 ---
 
-## NAMASTE
-- Find me
-- Found me
-- Ok
+* What we often do
+- Difficult to install 
+- Getting started with psql
+- Problem with joins
+- Working with team
 
 
