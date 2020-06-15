@@ -17,6 +17,10 @@ I’m currently the Machine Learning Lead at Monzo in London, where we’re focu
 
 My work has always focused on applications that use machine learning - this has taken me from recommender systems to urban computing and travel information systems, digital health monitoring, smartphone sensors, and banking. You can read more about my work and research in the Press & Speaking and Publications sections.
 
+Here, you’ll find some of my thoughts, works, and notes on software development, systems, machine learning, and research. I hope that you’ll spend a nice time here, so go grab yourself a cup of coffee and feel free to look around!
+
+I’m interested in problems concerning machine learning and its applications, especially those that deal with its deployment, engineering, and use. Furthermore, I’m also learning about distributed systems and infrastructure.
+
 Education
 
 | |  |
