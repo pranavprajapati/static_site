@@ -1,9 +1,11 @@
 ---
 title: about
 ---
-My name is **Pranav** and I recently graduated with Masters degree in Business Intelligence and Analytics with 4.0 GPA.
+Hello! I'm Pranav 👋
 
-`Hola!`
+I am a data scientist 
+
+*Hola!*
 
 ```python
 print('Hello World')
