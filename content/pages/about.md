@@ -1,38 +1,36 @@
 ---
 title: about
 ---
-Hello! I'm Pranav 👋
+## Hello! I'm Pranav 👋
 
-I am a data scientist 
+I'm a **Data Scientist** based in New York City working at *[Verisk Analytics](https://www.maplecroft.com/).* My work mainly focuses on using **Natural Language Processing** to analyze key political, economic, social and environmental risks affecting global business and investors.
 
-A few interesting things about me. I love to read science fiction (my favorite is Frank Herbert's Dune). I am also an avid gamer. I love to play competitive strategy games and first-person shooters. Lastly, I love learning. Every day I push myself to learn something new, whether that be about machine learning, software engineering, or miscellaneous facts about the universe.
+I enjoy breaking down complex problems using techniques of software engineering and data science. I’m interested in problems concerning machine learning and its practical applications, especially those that deal with its deployment, engineering, and use. 
 
-This means breaking down complex problems
+ The goal of this site is to help solidify my knowledge of these topics and hopefully make them easy to learn for others. I will try to cover code and theory based tutorials , share my work experiences or a fun project I worked on. Feel free to look around!
 
-This site is my attempt to give a bit back. I cover how-to guides, information arbitrages, and occasional opinions
+A few interesting things about me. When not at work I enjoy playing cricket, travel, [cook](my_food_expertise) and explore new cuisines. I am an amateur DJ; I love mixing tracks and play for friends and family. Lastly, I love learning. Every day I push myself to learn something new, whether that be about machine learning, software engineering, or miscellaneous facts about the universe. 
 
-I love learning about practical applications of data and techniques of software engineering and data analysis. The goal of this site is to help solidify my knowledge of these topics and hopefully make them easy to learn for others.
+#### Education
 
-I’m currently the Machine Learning Lead at Monzo in London, where we’re focusing on building machine learning systems that optimise the app and help the company scale.
+|      |                                                                               |
+| ---- | ----------------------------------------------------------------------------- |
+| 2018 | B.Tech Information Technology, Symbiosis International University, India      |
+| 2020 | M.S Business Intelligence and Analytics, Stevens Institute of Technology, USA |
 
-My work has always focused on applications that use machine learning - this has taken me from recommender systems to urban computing and travel information systems, digital health monitoring, smartphone sensors, and banking. You can read more about my work and research in the Press & Speaking and Publications sections.
 
-Here, you’ll find some of my thoughts, works, and notes on software development, systems, machine learning, and research. I hope that you’ll spend a nice time here, so go grab yourself a cup of coffee and feel free to look around!
 
-I’m interested in problems concerning machine learning and its applications, especially those that deal with its deployment, engineering, and use. Furthermore, I’m also learning about distributed systems and infrastructure.
+#### Experience
 
-Education
+|             |                                                                   |
+| ----------- | ----------------------------------------------------------------- |
+| 2016        | Web Developer Intern, Webpioneer, Mumbai, India                   |
+| 2017        | Software Developer Intern, Eywa, Pune, India                      |
+| 2018        | Database Developer Intern, RiseIT, Mumbai, India                  |
+| 2019        | Graduate Research Assistant, Hanlon Financial Systems, New Jersey |
+| 2020        | Data Engineering Intern, The KIND Foundation, New York            |
+| **Present** | **Data Scientist, Verisk Analytics, New York**                    |
 
-| |  |
-| --- | ---       |
-|2018 | B.Tech Information Technology, Symbiosis International University, India |
-|2020 | M.S Business Intelligence and Analytics, Stevens Institute of Technology, USA |
 
-Experience
 
-Things I plan to write and share - code heavy , theory heavy tutorials , writing up your experience, a fun project I worked on
-What makes me happy ?
-How do I stay updated about the latest happenings in data science ?
-How to get a chance to attend a conference - email template ?
-
-Thanks for dropping by!
+Thanks for dropping by! Please feel free to reach out to me [here](mailto:codepranav@gmail.com?subject=Hello) 📧
