@@ -1,12 +1,12 @@
 ---
-title: Testing 2
+title: Building data literacy during my first internship in USA
 date: 2020-05-25 19:30
-tags: software, how-to
+tags: experience, sql
 ---
 
-## HI
-- Find me
-- Found me
-- Ok
+Data Driven Organization
+- Non technical business users 
+- Well designed BI tools
+- Data Ambassadors
 
 
