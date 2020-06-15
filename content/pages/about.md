@@ -30,6 +30,9 @@ Education
 
 Experience
 
+Things I plan to write and share - code heavy , theory heavy tutorials , writing up your experience, a fun project I worked on
+What makes me happy ?
 How do I stay updated about the latest happenings in data science ?
+How to get a chance to attend a conference - email template ?
 
 Thanks for dropping by!
