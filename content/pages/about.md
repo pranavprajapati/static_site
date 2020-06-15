@@ -27,7 +27,7 @@ A few interesting things about me. When not at work I enjoy playing cricket, tra
 | 2018        | Database Developer Intern, RiseIT, Mumbai, India                  |
 | 2019        | Graduate Research Assistant, Hanlon Financial Systems, New Jersey |
 | 2020        | Data Engineering Intern, The KIND Foundation, New York            |
-| **Present** | **Data Scientist, Verisk Analytics, New York**                    |
+| **Present** | Data Scientist, Verisk Analytics, New York                        |
 
 
 
