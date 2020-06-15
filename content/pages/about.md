@@ -11,12 +11,20 @@ This means breaking down complex problems
 
 This site is my attempt to give a bit back. I cover how-to guides, information arbitrages, and occasional opinions
 
+I love learning about practical applications of data and techniques of software engineering and data analysis. The goal of this site is to help solidify my knowledge of these topics and hopefully make them easy to learn for others.
+
+I’m currently the Machine Learning Lead at Monzo in London, where we’re focusing on building machine learning systems that optimise the app and help the company scale.
+
+My work has always focused on applications that use machine learning - this has taken me from recommender systems to urban computing and travel information systems, digital health monitoring, smartphone sensors, and banking. You can read more about my work and research in the Press & Speaking and Publications sections.
+
 Education
 
 | |  |
 | --- | ---       |
 |2018 | B.Tech Information Technology, Symbiosis International University, India |
 |2020 | M.S Business Intelligence and Analytics, Stevens Institute of Technology, USA |
+
+Experience
 
 How do I stay updated about the latest happenings in data science ?
 
