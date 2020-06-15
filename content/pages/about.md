@@ -15,8 +15,8 @@ A few interesting things about me. When not at work I enjoy playing cricket, tra
 
 |      |                                                                               |
 | ---- | ----------------------------------------------------------------------------- |
-| 2018 | B.Tech Information Technology, Symbiosis International University, India      |
-| 2020 | M.S Business Intelligence and Analytics, Stevens Institute of Technology, USA |
+| 2018 |  B.Tech Information Technology, Symbiosis International University, India      |
+| 2020 |  M.S Business Intelligence and Analytics, Stevens Institute of Technology, USA |
 
 
 
@@ -24,12 +24,12 @@ A few interesting things about me. When not at work I enjoy playing cricket, tra
 
 |             |                                                                   |
 | ----------- | ----------------------------------------------------------------- |
-| 2016        | Web Developer Intern, Webpioneer, Mumbai, India                   |
-| 2017        | Software Developer Intern, Eywa, Pune, India                      |
-| 2018        | Database Developer Intern, RiseIT, Mumbai, India                  |
-| 2019        | Graduate Research Assistant, Hanlon Financial Systems, New Jersey |
-| 2020        | Data Engineering Intern, The KIND Foundation, New York            |
-| **Present** | **Data Scientist, Verisk Analytics, New York**                    |
+| 2016        |  Web Developer Intern, Webpioneer, Mumbai, India                   |
+| 2017        |  Software Developer Intern, Eywa, Pune, India                      |
+| 2018        |  Database Developer Intern, RiseIT, Mumbai, India                  |
+| 2019        |  Graduate Research Assistant, Hanlon Financial Systems, New Jersey |
+| 2020        |  Data Engineering Intern, The KIND Foundation, New York            |
+| **Present** |  **Data Scientist, Verisk Analytics, New York**                    |
 
 
 
